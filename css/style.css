@@ -4,17 +4,21 @@ html {
 h1{
 	font-family: 'Inconsolata', monospace;
 	font-size: 24px;
+	letter-spacing: -2px;
 	text-transform: uppercase;
-	margin-top: 40px;
-	margin-bottom: 200px;
+	margin: 20px 1230px 100px 30px;
 }
 img {
 	width: 539.22px;
 	height: 447.73px;
 }
+main {
+	width: 1200px;
+	margin-left: 100px;
+}
 div {
 	width: 600px;
-	margin-left: 700px;	
+	margin-left: 600px;
 	margin-top: -500px;
 }
 p.first {
@@ -42,7 +46,7 @@ button {
 }
 footer {
 	text-align: center;
-	margin-top: 300px;
+	margin-top: 150px;
 	font-family: 'Montserat', sans-serif;
 	font-size: 14px;
 	font-weight: 500;
