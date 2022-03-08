@@ -1,0 +1,50 @@
+html {
+	font-family: 'Space Mono', monospace;
+}
+h1{
+	font-family: 'Inconsolata', monospace;
+	font-size: 24px;
+	text-transform: uppercase;
+	margin-top: 40px;
+	margin-bottom: 200px;
+}
+img {
+	width: 539.22px;
+	height: 447.73px;
+}
+div {
+	width: 600px;
+	margin-left: 700px;	
+	margin-top: -500px;
+}
+p.first {
+	font-size: 64px;
+	font-weight: 700;
+	font-style: normal;
+}
+p.second {
+	width: 381px;
+	height: 108px;
+	font-size: 24px;
+	line-height: 36px;
+	letter-spacing: -1.5px;
+	font-weight: 400;
+}
+button {
+	width: 216px;
+	height: 68px;
+	font-size: 14px;
+	background-color: #333333;
+	border: 0;
+	color: white;
+	text-transform: uppercase;
+	margin-top: 64px;
+}
+footer {
+	text-align: center;
+	margin-top: 300px;
+	font-family: 'Montserat', sans-serif;
+	font-size: 14px;
+	font-weight: 500;
+	color: #BDBDBD;
+}
